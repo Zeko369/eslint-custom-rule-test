@@ -5,6 +5,7 @@
   "author": "Fran Zekan",
   "license": "MIT",
   "scripts": {
+    "start": "yarn add --dev file:./eslint-plugin-custom-rule && yarn lint",
     "lint": "eslint ./demo.js"
   },
   "dependencies": {
