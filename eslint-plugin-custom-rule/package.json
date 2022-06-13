@@ -1,0 +1,7 @@
+{
+  "name": "eslint-plugin-custom-rule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fran Zekan",
+  "license": "MIT"
+}

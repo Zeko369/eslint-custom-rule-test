@@ -1,0 +1,16 @@
+{
+  "name": "eslint-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fran Zekan",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ./demo.js"
+  },
+  "dependencies": {
+    "eslint": "^8.16.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-custom-rule": "file:./eslint-plugin-custom-rule"
+  }
+}
